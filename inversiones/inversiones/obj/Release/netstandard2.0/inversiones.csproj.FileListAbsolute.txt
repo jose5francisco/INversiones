@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\bin\Release\netstandard2.0\inversiones.deps.json
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\bin\Release\netstandard2.0\inversiones.dll
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\bin\Release\netstandard2.0\inversiones.pdb
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\Page1.xaml.g.cs
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.AssemblyInfo.cs
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.dll
+C:\Users\josee\source\repos\inversiones\inversiones\inversiones\obj\Release\netstandard2.0\inversiones.pdb

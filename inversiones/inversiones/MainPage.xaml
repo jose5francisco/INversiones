@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:inversiones"
+             x:Class="inversiones.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="APP INVERSORES"  HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+  
+        
+        <Label Text="inversion1"
+        FontSize="25"
+       TextColor="White"
+        BackgroundColor="Black"
+       HorizontalOptions="CenterAndExpand"
+       HorizontalTextAlignment="Center"
+       
+               />
+
+
+
+        <Entry  Placeholder="ingresa el monto el monto" x:Name="inversion1" />
+
+        <Label Text="inversion2"
+                 FontSize="25"
+       TextColor="White"
+        BackgroundColor="Black"
+       HorizontalOptions="CenterAndExpand"
+       HorizontalTextAlignment="Center"
+               
+        />
+        <Entry Placeholder="ingresa el monto" x:Name="inversion2" />
+
+        <Label Text="inversion3" 
+       FontSize="25"
+       TextColor="White"
+        BackgroundColor="Black"
+       HorizontalOptions="CenterAndExpand"
+       HorizontalTextAlignment="Center"
+               
+               />
+        <Entry Placeholder="ingresa el monto" x:Name="inversion3" />
+    
+
+        <Button Text="Calcular" Clicked="Button_Clicked" />
+
+
+    </StackLayout>
+
+</ContentPage>
